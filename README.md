@@ -1,2 +1,3 @@
 Mini DRC Checker Tool
 This Mini DRC Checker Tool is an educational resource that introduces students and beginners to Design Rule Checking (DRC) fundamentals. The tool takes in metal and via layer coordinates, calculates their dimensions, and compares them against foundry-specific rules. It then generates a visual diagram and reports any rule violations and necessary corrections. This tool is intended for educational purposes and provides a basic understanding of DRC without delving into the complexities of industry-standard tools.
+For further information please check on to the MINI DRC CHECKER TOOL word document 
